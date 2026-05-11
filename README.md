@@ -267,4 +267,4 @@ By completing this project, you will learn how to:
 
 # Author
 
-Developed as a Data Engineering & Data Analytics practice project.
+Abdelali Ouhsine.
